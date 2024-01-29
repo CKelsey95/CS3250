@@ -3,9 +3,10 @@
 ##this is a smaller header##
 
 **Bold is a pretty useful way to convey importance**
+
 *italics help when providing the name of a source*
 
-*_this should be bold italics_*
+**_this should be bold italics_**
 
 ~~Use this when the text is no longer applicable~~
 
