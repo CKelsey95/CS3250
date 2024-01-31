@@ -18,3 +18,6 @@
    3. sub item 3
 3. item 2
 4. item 3
+
+
+This line is a test of merging a local repo with github
