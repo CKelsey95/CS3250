@@ -1,6 +1,6 @@
-### This is an example Heading for my CS3250 Repo
+# This is an example Heading for my CS3250 Repo
 
-##this is a smaller header##
+## this is a smaller header
 
 **Bold is a pretty useful way to convey importance**
 
@@ -10,7 +10,7 @@
 
 ~~Use this when the text is no longer applicable~~
 
-#this is the smallest header#
+### this is the smallest header
 
 1. item 1
    1. sub item 1
