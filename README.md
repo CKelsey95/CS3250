@@ -22,3 +22,4 @@
 
 This line is a test of merging a local repo with github
    This line is a test of pulling github changes into a local repo
+Line added by second user (jlazo) 
